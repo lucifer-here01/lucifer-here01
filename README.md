@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @lucifer-here01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java Developing
+- 🌱 I’m currently learning  Java Spring
+- 💞️ I’m looking to collaborate with the organization where i can Prove My Skills  and reach at a Good level
+- 📫 You Can reach me Rishikumar147.rk@gmail.com 
+- or 7014425191
 
 <!---
 lucifer-here01/lucifer-here01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
